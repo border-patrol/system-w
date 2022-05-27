@@ -1,0 +1,17 @@
+-- [ Manifest ]
+--
+-- Project Manifest
+--
+-- Copyright : (c) Jan de Muijnck-Hughes
+-- License   : see LICENSE
+--
+package systemw
+
+depends = contrib
+
+sourcedir = "src"
+
+modules = SystemW.Sandpit
+
+
+-- [ EOF ]
