@@ -11,7 +11,9 @@ depends = contrib
 
 sourcedir = "src"
 
-modules = SystemW.Sandpit
+modules = Sandpit.Shapes
+        , Sandpit.Shapes2
+        , Sandpit.Sandpit
 
 
 -- [ EOF ]
